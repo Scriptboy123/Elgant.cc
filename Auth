@@ -1,5 +1,5 @@
 local ip = game:HttpGet("https://api.ipify.org/") 
-local authtest = loadstring(game:HttpGet("https://raw.githubusercontent.com/Scriptboy123/Elegant.CCAuth/main/WHITELIST"))() 
+local authtest = loadstring(game:HttpGet("https://raw.githubusercontent.com/bigpro123/elegant-v2dx/main/dd"))() 
 local function sha256(msg)
         local function band(int1, int2, int3, ...)
                 local ret =
